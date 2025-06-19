@@ -6,6 +6,7 @@
 prompt "a single high class beautiful young lady in a pretty western old money style dress , 8k uhd, natural light , studio flashes,  high skin quality,  perfect female anatomy."
 ![Generated image Example](https://github.com/aryankushwaha09/SD-1.5-Image-Generation-/blob/main/20250618_111459.png)<!-- Add actual image link here -->
 prompt " a single beautiful girl in studio,  8k uhd , high definition skin , natural detailed poses,  high end quality, natural light "
+
 This application combines Stable Diffusion image generation with state-of-the-art enhancement techniques to create high-quality images from text prompts. The system features facial enhancement with CodeFormer and multiple background upsampling options.
 
 ## Key Features
