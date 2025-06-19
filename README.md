@@ -47,7 +47,7 @@ H --> I[Final Image]
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/image-generation-app.git
+git clone https://github.com/aryankushwaha09/SD-1.5-Image-Generation-.git
 cd image-generation-app
 
 # Create virtual environment
@@ -105,7 +105,7 @@ To modify the application:
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 ## Acknowledgements
 
@@ -116,7 +116,7 @@ This project is licensed under the Apache 2.0 License - see [LICENSE](LICENSE) f
 
 - ## purpose
 - design for basically low end GPU which have low ram and also for vms
-- 
+- everything just to make things works under low resources 
 ## Recommended File Structure
 ```
 project-root/
