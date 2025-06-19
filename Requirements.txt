@@ -1,0 +1,1 @@
+#""let pip decide the pip conflict but recommend latest version """
