@@ -2,7 +2,7 @@
 
 # AI Image Generation & Enhancement System
 
-![Generated Image Example](https://github.com/aryankushwaha09/SD-1.5-Image-Generation-/blob/main/file_0000000015c861f6a74219762f16e3a8_conversation_id%3D67fe5cee-49d4-8009-9a36-d05f674b3dd7%26message_id%3D1a38f8c7-b9ff-4931-8800-d656131c5c15.png) <!-- Add actual image link here -->
+![Generated Image Example](https://github.com/aryankushwaha09/SD-1.5-Image-Generation-/blob/main/file_0000000015c861f6a74219762f16e3a8_conversation_id%3D67fe5cee-49d4-8009-9a36-d05f674b3dd7%26message_id%3D1a38f8c7-b9ff-4931-8800-d656131c5c15.png)(https://github.com/aryankushwaha09/SD-1.5-Image-Generation-/blob/main/20250618_111459.png)<!-- Add actual image link here -->
 
 This application combines Stable Diffusion image generation with state-of-the-art enhancement techniques to create high-quality images from text prompts. The system features facial enhancement with CodeFormer and multiple background upsampling options.
 
